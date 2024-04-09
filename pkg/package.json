@@ -1,0 +1,11 @@
+{
+  "name": "twitch_wasm_chat",
+  "version": "0.1.0",
+  "files": [
+    "twitch_wasm_chat_bg.wasm",
+    "twitch_wasm_chat.js",
+    "twitch_wasm_chat.d.ts"
+  ],
+  "browser": "twitch_wasm_chat.js",
+  "types": "twitch_wasm_chat.d.ts"
+}

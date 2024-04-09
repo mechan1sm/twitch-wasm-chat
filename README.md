@@ -1,2 +1,2 @@
 # twitch-wasm-chat
-Twitch chat made in WebAssembly
+simple proof-of-concept twitch chat written in Rust (WebAssembly)

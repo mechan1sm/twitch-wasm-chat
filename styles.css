@@ -1,0 +1,33 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+  font-family: "Inter", "Roobert", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#chat-container {
+  height: 100vh;
+}
+
+#chat-area {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: 100%;
+  line-height: 1.5em;
+}
+
+.message-username {
+  font-weight: bold;
+}
+
+.message {
+  padding: 0.25rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.badge {
+  vertical-align: middle;
+  height: 1em;
+  padding-right: 0.25rem;
+}
