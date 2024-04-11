@@ -26,6 +26,16 @@ body {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
+
+.message-text {
+  color: #fff;
+  text-shadow: 
+   -1px  1px 0 #0005,
+   -1px -1px 0 #0005, 
+    1px  1px 0 #0005,
+    1px -1px 0 #0005;
+}
+
 .badge {
   vertical-align: middle;
   height: 1em;
